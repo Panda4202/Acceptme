@@ -1,0 +1,29 @@
+body{
+    background-image: url("./deep1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+ h1{
+    color: #EFB036;
+ }
+
+ button{
+    height: 50px;
+    width: 50px;
+    background-image: url("./insta\ logo.avif");
+    border-radius: 50%;
+    background-size: cover;
+ }
+ 
+ a{
+    color: #3B6790;
+    
+   
+ }
+
+ img{
+    height: 100px;
+    position: static;
+ }
